@@ -1,4 +1,4 @@
-## Sistema web de venta de ropa de catálogo
+# Sistema web de venta de ropa de catálogo
 Titulo de proyecto: Sistema web de venta de ropa de catálogo
 ## Resumen
 El proyecto tiene como objetivo crear una tienda de ropa basada en la web con tecnología de inteligencia artificial que ofrezca recomendaciones de moda personalizadas, funcionalidades de búsqueda eficientes y un usuario interactivo experiencia. 
