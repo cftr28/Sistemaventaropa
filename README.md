@@ -15,8 +15,8 @@ Los datos para el catálogo de ropa se pueden obtener de varias marcas de moda y
 ![image of an online ](https://loyverse.com/sites/all/themes/loyversecom/images/industrie/es/fashion/boutique-pos.png)
 ## Desafíos: 
 Sistema de venta de ropa: Para implementar un sistema de venta de ropa, debe considerar la seguridad de su sitio web y la facilidad de uso para los clientes. También es importante tener una base de datos de productos y un proceso de pago seguro. Puede explorar diferentes plataformas y plugins para implementar un sistema de venta en línea.
-# ¿Qué sigue?: 
+## ¿Qué sigue?: 
 Para que su proyecto crezca, debe estar abierto a la retroalimentación y comentarios. Considere agregar nuevas características o ajustar las existentes para mejorar la experiencia del usuario. También puede explorar posibles asociaciones con otras empresas o proyectos similares.
-# Agradecimientos:
+## Agradecimientos:
 Universidad Nacional de Loja
 
