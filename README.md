@@ -1,4 +1,5 @@
 # Sistema web de venta de ropa de catálogo
+Proyecto del curso Building A
 # Summary
 El proyecto tiene como objetivo crear una tienda de ropa basada en la web con tecnología de inteligencia artificial que ofrezca recomendaciones de moda personalizadas, funcionalidades de búsqueda eficientes y un usuario interactivo experiencia. 
 El sistema web de venta de ropa es una herramienta que utiliza tecnología de inteligencia artificial para mejorar la experiencia de compra de los usuarios de tiendas virtuales de ropa . Esto se logra a través de la implementación de recomendaciones personalizadas de moda, la optimización de búsquedas y la creación de una experiencia interactiva de usuario. La inteligencia artificial permite procesar grandes cantidades de datos y aportar sugerencias relevantes y personalizadas, lo que puede mejorar la experiencia de compra y la satisfacción del cliente. 
@@ -12,3 +13,11 @@ Los usuarios pueden visitar la plataforma web y crear una cuenta. El sistema de 
 ## Fuentes de datos y métodos de IA 
 Los datos para el catálogo de ropa se pueden obtener de varias marcas de moda y minoristas, ya sea a través de colaboración directa o web scraping. Los métodos de IA como el filtrado colaborativo, el filtrado basado en contenido y los algoritmos de aprendizaje automático se pueden utilizar para analizar las preferencias de los usuarios y hacer recomendaciones personalizadas.
 ![image of an online ](https://loyverse.com/sites/all/themes/loyversecom/images/industrie/es/fashion/boutique-pos.png)
+Desafíos: Su proyecto podría no resolver todos los problemas y limitaciones que se presentan. Es importante tener en cuenta que cualquier solución tecnológica tendrá sus propias limitaciones.
+
+# ¿Qué sigue?: 
+Para que su proyecto crezca, debe estar abierto a la retroalimentación y comentarios. Considere agregar nuevas características o ajustar las existentes para mejorar la experiencia del usuario. También puede explorar posibles asociaciones con otras empresas o proyectos similares.
+
+# Agradecimientos:
+Universidad Nacional de Loja
+Sistema de venta de ropa: Para implementar un sistema de venta de ropa, debe considerar la seguridad de su sitio web y la facilidad de uso para los clientes. También es importante tener una base de datos de productos y un proceso de pago seguro. Puede explorar diferentes plataformas y plugins para implementar un sistema de venta en línea.
